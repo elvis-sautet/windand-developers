@@ -36,10 +36,10 @@ To start the server application
 ## Screenshots
 
 -- form not submitted
-![App Screenshot1](./client-react/public/snip2.png)
+![App Screenshot1](/client-react/public/snip2.png)
 
 -- Home page
-![App Screenshot1](./client-react/public/snip1.png)
+![App Screenshot1](/client-react/public/snip1.png)
 
 ## Authors
 
